@@ -28,7 +28,7 @@ El Proyecto es un boilerplate asi que no hay mucho mas relevante que identifiqu√
 
 ```markdown
 ---
-name: routes
+name: list-adonisjs-routes
 description: List the HTTP routes registered in the AdonisJS API. Use when the
   user wants to see the available endpoints, inspect methods/paths/middleware,
   or verify a route was wired up after an OpenSpec change.
